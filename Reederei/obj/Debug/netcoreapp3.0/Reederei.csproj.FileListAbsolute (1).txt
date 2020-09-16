@@ -1,0 +1,11 @@
+H:\AWE\Reederei\Reederei\bin\Debug\netcoreapp3.0\Reederei.exe
+H:\AWE\Reederei\Reederei\bin\Debug\netcoreapp3.0\Reederei.deps.json
+H:\AWE\Reederei\Reederei\bin\Debug\netcoreapp3.0\Reederei.runtimeconfig.json
+H:\AWE\Reederei\Reederei\bin\Debug\netcoreapp3.0\Reederei.runtimeconfig.dev.json
+H:\AWE\Reederei\Reederei\bin\Debug\netcoreapp3.0\Reederei.dll
+H:\AWE\Reederei\Reederei\bin\Debug\netcoreapp3.0\Reederei.pdb
+H:\AWE\Reederei\Reederei\obj\Debug\netcoreapp3.0\Reederei.csprojAssemblyReference.cache
+H:\AWE\Reederei\Reederei\obj\Debug\netcoreapp3.0\Reederei.AssemblyInfoInputs.cache
+H:\AWE\Reederei\Reederei\obj\Debug\netcoreapp3.0\Reederei.AssemblyInfo.cs
+H:\AWE\Reederei\Reederei\obj\Debug\netcoreapp3.0\Reederei.dll
+H:\AWE\Reederei\Reederei\obj\Debug\netcoreapp3.0\Reederei.pdb
